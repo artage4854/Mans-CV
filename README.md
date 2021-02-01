@@ -2,6 +2,8 @@
 
 Artjoms Seņņikovs
 
+<img src="https://github.com/artage4854/Mans-CV/blob/main/20200924_093903.jpg?raw=true" width="10%" height="10%">
+
 Dzimšanas datums: 08.05.2004
 
 Valstspiederība: krievu, latviešu
