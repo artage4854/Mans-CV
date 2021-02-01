@@ -8,7 +8,7 @@ Dzimums: Vīrietis
 Kontakti: 
 
 Talruns: +371 20404160
- Gmail: arteemsennikov3@gmail.com
+Gmail: arteemsennikov3@gmail.com
 Instagramm: https://www.instagram.com/artemssennikov/ 
 Discord: igors#0502
 
