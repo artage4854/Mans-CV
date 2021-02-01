@@ -1,8 +1,11 @@
 # Mans-CV
 
 Artjoms Seņņikovs
+
 Dzimšanas datums: 08.05.2004
+
 Valstspiederība: krievu, latviešu
+
 Dzimums: Vīrietis
 
 Kontakti: 
